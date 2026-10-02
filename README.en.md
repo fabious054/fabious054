@@ -73,8 +73,8 @@ An MCP server that gives Claude real access to GitHub: branches, commits, PRs, i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fabious054&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabious054&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+<img height="165" src="./profile/stats.svg" alt="GitHub stats"/>
+<img height="165" src="./profile/top-langs.svg" alt="Most used languages"/>
 
 <img src="https://streak-stats.demolab.com?user=fabious054&theme=github-dark-blue&hide_border=true&background=0d1117" />
 
