@@ -1,6 +1,6 @@
 <div align="center">
 
-🇧🇷 [Português](./README.md) · 🇺🇸 [English](./README.en.md)
+🇧🇷 [Português](https://github.com/fabious054/fabious054/blob/main/README.md) · 🇺🇸 [English](https://github.com/fabious054/fabious054/blob/main/README.en.md)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Fabio%20Henrique&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Dev%20%C2%B7%20Fundador%20da%20CodeWave.IT&descAlignY=58&descSize=16" width="100%"/>
 
