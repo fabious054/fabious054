@@ -1,5 +1,7 @@
 <div align="center">
 
+🇧🇷 [Português](./README.md) · 🇺🇸 [English](./README.en.md)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Fabio%20Henrique&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Dev%20%C2%B7%20Fundador%20da%20CodeWave.IT&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Construindo+software+com+IA+como+alavanca;MCP+servers%2C+agentes+e+automa%C3%A7%C3%A3o;Sempre+estudando+algo+mais+dif%C3%ADcil" alt="Typing SVG" /></a>
