@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=180&section=header&text=Fabio%20Henrique&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Dev%20%C2%B7%20Fundador%20da%20CodeWave.IT&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Construindo+software+com+IA+como+alavanca;MCP+servers%2C+agentes+e+automa%C3%A7%C3%A3o;Sempre+estudando+algo+mais+dif%C3%ADcil" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Construindo+software+com+IA+como+alavanca;Motor+de+LLM+em+CPU%2C+em+Rust+puro;Medindo+a+CPU+gr%C3%A3o+por+gr%C3%A3o;Sempre+estudando+algo+mais+dif%C3%ADcil" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -18,12 +18,14 @@
 
 Sou desenvolvedor no Brasil e fundador da **CodeWave.IT**, onde construo produtos próprios com uma pegada prática e empreendedora. Uso IA como infraestrutura de trabalho de verdade: agentes, servidores MCP e automações que ampliam o que uma pessoa sozinha consegue entregar.
 
+Nos últimos tempos desci até o metal: escrevo do zero, em Rust puro, um motor de inferência de LLM para CPU, e estudo o processador por dentro para achar desempenho onde quase ninguém olha.
+
 O que me move é estudar coisas cada vez mais complexas e refinar o que já sei. Também produzo conteúdo sobre desenvolvimento no Instagram e LinkedIn.
 
 ```ts
 const fabio = {
   empresa: "CodeWave.IT",
-  foco: ["IA aplicada", "MCP & agentes", "APIs", "Cloud"],
+  foco: ["IA aplicada", "Rust & desempenho em CPU", "MCP & agentes", "APIs", "Cloud"],
   aprendendo: "sempre algo um degrau mais difícil",
   filosofia: "Primeiro faz funcionar, depois faz certo, depois faz rápido.",
 };
@@ -35,7 +37,7 @@ const fabio = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,python,postgres,redis,aws,vercel,docker,git,github&perline=13" />
+<img src="https://skillicons.dev/icons?i=rust,ts,js,nodejs,react,nextjs,python,postgres,redis,aws,vercel,docker,git,github&perline=14" />
 
 </div>
 
@@ -58,10 +60,27 @@ Servidor MCP que dá ao Claude acesso real ao GitHub: branches, commits, PRs, is
 #### 🧪 Em construção na CodeWave.IT
 - **CostTracer** — rastreamento de custos
 - **AgentMesh** — orquestração de agentes
-- **CandleCLI** — ferramenta de linha de comando
 - **PimelStore** — e-commerce (API + UI)
 
 <sub>Repositórios privados por enquanto.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🕯️ CandleCLI
+Motor de inferência de LLM local para CPU, escrito do zero em Rust puro — sem framework de ML, com kernels próprios. Medido lado a lado com o llama.cpp na mesma máquina: no mesmo nível no processamento de prompt do Qwen3-4B.
+
+`Rust` `SIMD` `LLM` `CPU`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔥 Ember
+Laboratório para medir a CPU por dentro — topologia, caches, clock e o que acontece entre um pico de carga e outro — com segurança: só modo usuário, sem driver e sem admin.
+
+`Rust` `Windows` `Microarquitetura`
 
 </td>
 </tr>
