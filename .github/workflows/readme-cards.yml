@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 9 * * *" # todo dia às 06:00 (horário de Brasília)
+    - cron: "0 */3 * * *" # a cada 3 horas, todos os dias
   workflow_dispatch:
   push:
     branches: [main]
