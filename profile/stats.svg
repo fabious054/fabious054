@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Fabio Abreu&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 8, Total Commits  : 1078, Total PRs: 416, Total Issues: 157, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Stars Earned: 8, Total Commits  : 1091, Total PRs: 424, Total Issues: 157, Contributed to (last year): 20</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 129.583007371615;
+        stroke-dashoffset: 129.38437956074853;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >416</text>
+      >424</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
